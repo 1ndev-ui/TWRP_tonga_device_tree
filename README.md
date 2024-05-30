@@ -18,6 +18,15 @@
 - Uses A/B: True
 - Treble Device: True
 
+---
+
+![TeamWin Logo](https://xdaforums.com/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FetLFwha.png&hash=ed22c53199f56ab0d68a72e710bd68b9)
+
+![OrangeFox Logo](https://nsm09.casimages.com/img/2021/06/04//21060406530523566517449776.png)
+
+TWRP & OFRP recoveries built using: [Action Recovery Builder](https://github.com/1ndevelopment/Action-Recovery-Builder)
+
+
 ```
 #
 # Copyright (C) 2024 The Android Open Source Project
