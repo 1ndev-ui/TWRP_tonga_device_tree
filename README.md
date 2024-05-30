@@ -13,7 +13,7 @@
 - Display: 720x1600 @ 60Hz
 - RAM: 3.94GB
 - Internal Storage: 64GB
-- Battery: 4822mAh
+- Battery: 5000mAh
 - Kernel: 4.19.191
 - Uses A/B: True
 - Treble Device: True
