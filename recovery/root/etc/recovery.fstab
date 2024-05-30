@@ -35,6 +35,7 @@
 /scp_b                    emmc     /dev/block/platform/bootdevice/by-name/scp_b             flags=display="scp_b";backup=1;wipeingui;flashimg=1;slotselect;subpartitionof=/scp_a
 /sspm_a                   emmc     /dev/block/platform/bootdevice/by-name/sspm_a            flags=display="sspm_a";backup=1;wipeingui;flashimg=1;slotselect
 /sspm_b                   emmc     /dev/block/platform/bootdevice/by-name/sspm_b            flags=display="sspm_b";backup=1;wipeingui;flashimg=1:slotselect;subpartitionof=/sspm_a
+/super                    emmc     /dev/block/platform/bootdevice/by-name/super             flags=display="super";backup=1;wipeingui;flashimg=1
 /efuse                    emmc     /dev/block/platform/bootdevice/by-name/efuse             flags=display="efuse";backup=1;wipeingui;flashimg=1
 /md1img_a                 emmc     /dev/block/platform/bootdevice/by-name/md1img_a          flags=display="md1img_a";backup=1;wipeingui;flashimg=1;slotselect
 /md1img_b                 emmc     /dev/block/platform/bootdevice/by-name/md1img_b          flags=display="md1img_b";backup=1;wipeingui;flashimg=1;slotselect;subpartitionof=/md1img_a
