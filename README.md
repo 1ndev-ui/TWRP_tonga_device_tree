@@ -1,4 +1,4 @@
-# Recovery device tree for Motorola G Power (2022) (tonga)
+# TWRP/OFRP device tree for Motorola G Power (2022) (tonga)
 
 ```
 #
