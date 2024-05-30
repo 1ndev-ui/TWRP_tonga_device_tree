@@ -7,7 +7,7 @@
 - OS: Android 12
 - Hardware SKU: XT2165-5
 - Board Name: k65v1_64_bsp
-- Chipset: MediaTek Helio P35
+- Chipset: MediaTek Helio G37
 - CPU: 4x ARM64 Cortex-A53 @ 2.3 GHz + 4x ARM Cortex-A53 @ 1.8 GHz (MT6765H)
 - GPU: PowerVR Rouge GE8320
 - Display: 720x1600 @ 60Hz
