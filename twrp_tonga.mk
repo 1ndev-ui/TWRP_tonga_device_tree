@@ -31,4 +31,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := motorola/tonga_g/tonga:12/S3RQS32.20-42-10-9-9/4db87:user/release-keys
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/motorola/tonga/recovery/root,recovery/root)
+# PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/motorola/tonga/recovery/root,recovery/root)
